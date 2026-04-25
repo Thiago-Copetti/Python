@@ -1,4 +1,4 @@
-# Program que pede a nota de 4 provas, 
+# Programa que pede a nota de 4 provas, 
 # calcula a média e diz se o aluno foi aprovado ou reprovado
 
 nota_1 = float(input('Informe a primeira nota : '))
